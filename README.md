@@ -1,5 +1,4 @@
 [![Stories in Ready](https://badge.waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data.svg?label=ready&title=Ready)](http://waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data)
-
 # Recommender System Using Twitter Text Data
 
 ### Project Proposal
