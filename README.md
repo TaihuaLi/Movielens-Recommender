@@ -1,12 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data.svg?label=ready&title=Ready)](http://waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data)
-# Recommender System Using Twitter Text Data
+# Recommender System
 
-### Project Proposal
-The recommending method will involve clustering, classification algorithms and the recommeder system will work as following,
-1) Input tweet data from a new user
-2) Classify the new user into a class
-3) Compute the similarities between this new user with existing users in the cluster
-4) Output the top five most similar users in the cluster as a recommendation for the new user to follow
+Working Project
 
 ### Team Members
 - [Taihua Li] (https://www.linkedin.com/in/taihuali)
