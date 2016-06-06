@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data.svg?label=ready&title=Ready)](http://waffle.io/TaihuaLi/Recommender-System-Using-Twitter-Text-Data)
 # Recommender System Using MovieLens Dataset
 
-Working Project
+Data source: [www.movielens.org](www.movielens.org)
 
 ### Team Members
 - [Taihua Li] (https://www.linkedin.com/in/taihuali)
